@@ -1,35 +1,35 @@
 [
   {
     "ParameterKey": "pS3BucketName",
-    "ParameterValue": "unique-bucket-name-dummy-2021"
+    "ParameterValue": "profAkymbo-bucket-forDataETL"
   },
   {
     "ParameterKey": "pSourceFolder",
-    "ParameterValue": "source"
+    "ParameterValue": "source-data"
   },
   {
     "ParameterKey": "pStageFolder",
-    "ParameterValue": "stage"
+    "ParameterValue": "staging-jobs-data"
   },
   {
     "ParameterKey": "pTransformFolder",
-    "ParameterValue": "transform"
+    "ParameterValue": "transformed-data"
   },
   {
     "ParameterKey": "pErrorFolder",
-    "ParameterValue": "error"
+    "ParameterValue": "error-source-folder"
   },
   {
     "ParameterKey": "pArchiveFolder",
-    "ParameterValue": "archive"
+    "ParameterValue": "archived-source"
   },
   {
     "ParameterKey": "pEmailforNotification",
-    "ParameterValue": "valid-email@xyz.com"
+    "ParameterValue": "oyebanjiakeem@gmail.com"
   },
   {
     "ParameterKey": "pPrefix",
-    "ParameterValue": "demo"
+    "ParameterValue": "dataETL"
   },
   {
     "ParameterKey": "pDatasetSchema",
