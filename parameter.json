@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "pS3BucketName",
-    "ParameterValue": "profAkymbo-bucket-forDataETL"
+    "ParameterValue": "akeem-data-etl-bucket"
   },
   {
     "ParameterKey": "pSourceFolder",
